@@ -1,0 +1,14 @@
+deep_translator
+duckduckgo_search
+langchain_community
+langchain_core
+langchain_groq
+langchain_huggingface
+langchain_text_splitters
+langdetect
+pandas
+python-dotenv
+Requests
+streamlit
+sentence-transformers
+faiss-cpu
